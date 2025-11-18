@@ -27,3 +27,4 @@ My goal is not just to write code, but to create **comfortable, beautiful and mo
 3.  Over time, master the React framework and continue learning the Vue framework and database to become a full-stack developer.
 
 ---
+<div class="tenor-gif-embed" data-postid="15934416100573032598" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/shinji-gif-15934416100573032598">Shinji GIF</a>from <a href="https://tenor.com/search/shinji-gifs">Shinji GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
